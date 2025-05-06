@@ -1,0 +1,11 @@
+    {
+        "description": "is-a.dev subdomain",
+        "repo": "https://github.com/freezicles/freezicles.github.io",
+        "owner": {
+            "username": "freezicles",
+            "email": "squaresheep28@gmail.com"
+        },
+        "records": {
+            "CNAME": "freezicles.github.io"
+        }
+    }
